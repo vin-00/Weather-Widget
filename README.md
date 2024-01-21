@@ -29,11 +29,9 @@ VITE_API_KEY=your_api_key_here
 To start the development server, run:
 npm run dev
 
-This will launch the application at http://localhost:5173.
-
-Customization
+## Customization
 You can customize the widget by modifying the code in the src directory. The main components are:
 
-CitySelector: Allows users to choose the city for weather information.
-WeatherDisplay: Displays the current weather information for the selected city.
+- SearchBox : Allows users to choose the city for weather information.
+- InfoBox: Displays the current weather information for the selected city.
 Feel free to add more features, styles, or integrate additional APIs to enhance the functionality of the weather widget.
