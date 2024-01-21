@@ -1,1 +1,39 @@
-# lab-vite
+# React-Vite Weather Widget
+## Overview
+Welcome to the React-Vite Weather Widget project! This weather widget is a simple and customizable tool to display current weather information for a specific city. Built using React and Vite, it provides a seamless and fast development experience.
+
+## Features
+- Real-time weather information retrieval
+- Customizable city selection
+- Responsive design for various screen sizes
+- Clean and intuitive user interface
+
+## Getting Started
+### Prerequisites
+Make sure you have Node.js and npm installed on your machine.
+
+## Installation
+Clone the repository:
+git clone https://github.com/vin-00/Weather-widget.git
+
+Install dependencies:
+npm install
+
+## Configuration
+Obtain a free API key from OpenWeatherMap to fetch weather data.
+Create a .env file in the project root and add your API key and the API url to it:
+
+VITE_API_KEY=your_api_key_here
+
+## Usage
+To start the development server, run:
+npm run dev
+
+This will launch the application at http://localhost:5173.
+
+Customization
+You can customize the widget by modifying the code in the src directory. The main components are:
+
+CitySelector: Allows users to choose the city for weather information.
+WeatherDisplay: Displays the current weather information for the selected city.
+Feel free to add more features, styles, or integrate additional APIs to enhance the functionality of the weather widget.
