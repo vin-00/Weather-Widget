@@ -35,3 +35,7 @@ You can customize the widget by modifying the code in the src directory. The mai
 - SearchBox : Allows users to choose the city for weather information.
 - InfoBox: Displays the current weather information for the selected city.
 Feel free to add more features, styles, or integrate additional APIs to enhance the functionality of the weather widget.
+
+Enjoy building your weather widget with React and Vite! If you have any questions or need further assistance, feel free to reach out.
+
+- Email : vinaykhatri292@gmail.com
