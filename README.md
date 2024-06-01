@@ -1,5 +1,5 @@
 # React-Vite Weather Widget
-## [Check it out](https://weather-widget22022.netlify.app)
+## Website
 
 ## Overview
 Welcome to the React-Vite Weather Widget project! This weather widget is a simple and customizable tool to display current weather information for a specific city. Built using React and Vite, it provides a seamless and fast development experience.
