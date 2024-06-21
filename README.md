@@ -1,5 +1,7 @@
 # React-Vite Weather Widget
-## Website
+
+![image](https://github.com/vin-00/Weather-Widget/assets/132657698/3e2f4a3d-bd66-44cd-8123-889571546330)
+
 
 ## Overview
 Welcome to the React-Vite Weather Widget project! This weather widget is a simple and customizable tool to display current weather information for a specific city. Built using React and Vite, it provides a seamless and fast development experience.
